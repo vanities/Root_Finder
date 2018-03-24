@@ -1,7 +1,4 @@
 /*	Adam Mischke
-	Source.cpp
-	Mon 14 Nov 2016 07:59:51 AM CST -> DUE Tue 15 Nov 2016 11:59:59 PM CST
-	CSCI/MATH 3180 - Numerical Analysis
 	
 	Input:  A txt file
 	Output: prints to std::out 
