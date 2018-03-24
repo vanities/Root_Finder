@@ -3,7 +3,7 @@
 	Input:  A txt file
 	Output: prints to std::out 
 
-	Lab Assignment #5: Finding Roots using Newton's, Secant, and Bisection methods:
+	Finding Roots using Newton's, Secant, and Bisection methods:
 
 	This program dynammically finds the roots of polynomials using Newton's, Secant and Bisection methods
 	using a txt file assigned below. The first line of the file represents the degree of the polynomial,
